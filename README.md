@@ -1,1 +1,1 @@
-# codsoft_2
+CODSOFT java intership Word Counter program
